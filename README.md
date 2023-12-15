@@ -246,7 +246,7 @@ void handle_split(char *current_bmp_name, int end_x, int end_y)
 4.复原
 复原即是再show一遍
 
-还有resizeBMP和 spzlit_filepath功能函数对图像和路径进行处理不展示
+还有resizeBMP和 spzlit_filepath功能函数对图像和路径处理函数 在代码里
 
-清有收获的点个STAR收藏下
+请有收获的点个STAR收藏下
 
